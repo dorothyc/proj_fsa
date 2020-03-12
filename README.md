@@ -1,14 +1,18 @@
 # proj_fsa
-code for Finite State Automata and Unit test with Mocha and Chai
+Code for Finite State Automata and Unit tests with Mocha and Chai
 
-Setup
+# Setup
 
 Install Nodejs >= v6.0.0
 
-Install Mocha by running the command $ npm install --global mocha
+Install Mocha with the following command 
+`npm install --global mocha`
 
 Clone this Project and navigate to the proj_fsa/{a_directory} directory in command line 
 
-Run npm install to install all dependencies from package.json
+Install all dependencies from package.json by running the following command
+`npm install`
 
-Run npm test to run the tests
+# Unit tests
+Run the unit tests with the following command
+`npm test`
